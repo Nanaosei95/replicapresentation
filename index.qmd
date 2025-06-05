@@ -6,8 +6,6 @@ format:
     slide-number: true
     toc: false
     theme: simple
-  pdf:
-    documentclass: article
 bibliography: references.bib
 csl: apa.csl
 editor: visual
