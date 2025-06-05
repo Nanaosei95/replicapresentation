@@ -2,14 +2,15 @@
 title: "Data Replication"
 author: "Tony Osei"
 format:
-  revealjs: default
+  revealjs:
+    slide-number: true
+    toc: false
+    theme: simple
   pdf:
-    toc: true
-    number-sections: false
-    slide-level: 2
-editor: visual
+    documentclass: article
 bibliography: references.bib
 csl: apa.csl
+editor: visual
 ---
 
 ## Introduction
