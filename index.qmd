@@ -14,8 +14,7 @@ editor: visual
 ## Introduction
 
 -   Objective: Reproduce the graphs using RStudio. These graphs show "Heterogeneity in Pricing Technology by Hour of the Week"
--   Tools used:
-    -   Data from `analysis_data.dta` , `data.table`, `ggplot2`, and `lubridate` packages
+-   Tools used: Data from `analysis_data.dta` , `data.table`, `ggplot2`, and `lubridate` packages
 -   Outcome: Understand retailer pricing behavior by hour and day of the week.
 -   In this paper, @brown2023pricing, show that pricing behavior varies significantly across retailers.
 -   We used `ggplot2` for plotting (@wickham2016ggplot2) and built this deck with Quarto (@quarto2022).
@@ -200,7 +199,7 @@ Original
 
 Replication
 
-![](images/clipboard-1273860835.png){width="561"}
+![](images/clipboard-1273860835.png){width="496"}
 
 ## Second Graph
 
@@ -210,7 +209,7 @@ Original
 
 Replication
 
-![](images/clipboard-2453019909.png){width="644"}
+![](images/clipboard-2453019909.png){width="529"}
 
 ## Third Graph
 
@@ -220,7 +219,7 @@ Original
 
 Replication
 
-![](images/clipboard-4051884653.png){width="641"}
+![](images/clipboard-4051884653.png){width="536"}
 
 ## Fourth Graph
 
@@ -230,7 +229,7 @@ Original
 
 Replication
 
-![](images/clipboard-2961641913.png){width="603"}
+![](images/clipboard-2961641913.png){width="491"}
 
 ## Fifth Graph
 
@@ -240,7 +239,7 @@ Original
 
 Replication
 
-![](images/clipboard-4051177612.png){width="613"}
+![](images/clipboard-4051177612.png){width="497"}
 
 ## Problems
 
