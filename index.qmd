@@ -193,53 +193,53 @@ ggplot(df_hourly[website == "E"], aes(x = hourofweek, y = hourly_dist)) +
 
 ## First Graph
 
-Original
+### Original
 
 ![](images/clipboard-4281228122.png){width="689"}
 
-Replication
+## Replication
 
 ![](images/clipboard-1273860835.png){width="496"}
 
 ## Second Graph
 
-Original
+### Original
 
-![](images/clipboard-2873016604.png){width="616"}
+![](images/clipboard-2873016604.png){width="682"}
 
-Replication
+## Replication
 
-![](images/clipboard-2453019909.png){width="529"}
+![](images/clipboard-2453019909.png){width="599"}
 
 ## Third Graph
 
-Original
+### Original
 
-![](images/clipboard-1286403927.png){width="603"}
+![](images/clipboard-1286403927.png){width="671"}
 
-Replication
+## Replication
 
-![](images/clipboard-4051884653.png){width="536"}
+![](images/clipboard-4051884653.png){width="617"}
 
 ## Fourth Graph
 
-Original
+### Original
 
-![](images/clipboard-2377153544.png){width="720"}
+![](images/clipboard-2377153544.png){width="810"}
 
-Replication
+## Replication
 
-![](images/clipboard-2961641913.png){width="491"}
+![](images/clipboard-2961641913.png){width="595"}
 
 ## Fifth Graph
 
-Original
+### Original
 
-![](images/clipboard-820648411.png){width="654"}
+![](images/clipboard-820648411.png){width="775"}
 
-Replication
+## Replication
 
-![](images/clipboard-4051177612.png){width="497"}
+![](images/clipboard-4051177612.png){width="607"}
 
 ## Problems
 
